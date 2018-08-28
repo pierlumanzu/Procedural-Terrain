@@ -46,6 +46,8 @@ var params = {
     waterHeight: 35
 };
 
+THREE.ImageUtils.crossOrigin = '';
+
 //Uniform variables for shaders
 var uniforms = {
 
