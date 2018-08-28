@@ -3,7 +3,7 @@
 
 Here there is a [link](http://htmlpreview.github.io/?https://github.com/pierlumanzu/ComputerGraphicsAnd3dProject/blob/master/Procedural_terrain.html) to a preview of the application.
 
-It is important to know that this preview runs with the parameters set as indicated in the "Procedural_terrain.html" file.
+It is important to know that this preview runs with the parameters set as indicated in the "Procedural_terrain.js" file.
 
 ### Warning
 
