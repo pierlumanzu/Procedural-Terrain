@@ -39,7 +39,7 @@ var params = {
 
     //Texture
     repetitionOfTexture: 50,
-    heightFactor: 4.2,
+    heightFactor: 4.4,
 
     //Water
     waterHeight: 35
