@@ -7,7 +7,6 @@ var groundMesh, floor = [], bufferGeometry = [], xPosition = [], zPosition = [],
 //Variables for camera control
 var controlsEnabled = false;
 var controls;
-var objects = [];
 var moveUp = false;
 var moveDown = false;
 var moveForward = false;
@@ -17,8 +16,6 @@ var moveRight = false;
 var prevTime = performance.now();
 var velocity = new THREE.Vector3();
 var direction = new THREE.Vector3();
-var vertex = new THREE.Vector3();
-var color = new THREE.Color();
 var player = {
     speed: 2.2
 };
